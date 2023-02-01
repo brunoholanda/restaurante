@@ -1,0 +1,21 @@
+:root {
+  --fonte: 'Rubik', sans-serif;
+  --branco: #ffffff;
+  --preto: #000000;
+  --laranja: #FF5A00;
+  --laranja-claro:#FFBD99;
+  
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  background-color: var(--branco);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

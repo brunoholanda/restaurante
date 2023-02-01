@@ -1,0 +1,12 @@
+.link {
+    color: var(--preto);
+    font-size: 24px;
+    font-weight: 400;
+    padding: 1em;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: var(--laranja);
+    font-weight: 500;
+}
