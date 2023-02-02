@@ -13,6 +13,9 @@
 # Acesso ao Projeto
 https://restaurante-rho.vercel.app/
 
+# Acesse o Figma do projeto
+https://www.figma.com/file/rJ2KwenAAA0Mg8X1LbYYBi/Restaurante---Food?node-id=0%3A1&t=AmCij3WZhEwqFQ7P-0
+
 # Tecnologias utilizadas
 
 :spades: REACT;<br>
