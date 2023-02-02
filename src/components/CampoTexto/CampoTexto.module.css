@@ -1,0 +1,15 @@
+.campotexto input {
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+    margin-bottom: 0.7em;
+    border: none;
+}
+
+.campotexto input::placeholder {
+    font-size: 12px;
+    font-weight: 300;
+    padding-left: 1em;
+    color: rgba(0, 0, 0, 0.3);
+}
+

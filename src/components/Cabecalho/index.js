@@ -5,7 +5,9 @@ import logo from './logo.png';
 
 function Cabecalho() {
     return (
+        <div className={styles.linha}>
         <header className={styles.cabecalho}>
+            
             <Link to="./">
                 <img src={logo} alt="logo do restaurante"></img>
             </Link>
@@ -24,9 +26,10 @@ function Cabecalho() {
                 </CabecalhoLink>
             </nav>
             <button>
-                Pedir Agora
-            </button>
+                Pedir agora
+            </button>         
         </header>
+        </div>
     )
 }
 

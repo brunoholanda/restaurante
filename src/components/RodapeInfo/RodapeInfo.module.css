@@ -1,0 +1,52 @@
+.rodapeinfo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--laranja);
+    padding: 2em 5em;
+}
+
+.rodapeinfo__links h3 {
+    color: var(--branco);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.rodapeinfo__links p {
+    color: var(--branco);
+    display: flex;
+    margin-bottom: 0.2em;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.rodapeinfo__links a {
+    text-decoration: none;
+    color: var(--branco);
+    display: flex;
+    margin-bottom: 0.2em;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.rodapeinfo__links a:hover {
+    color: var(--preto);
+    font-weight: 400;
+}
+
+.rodapeinfo__links button {
+    width: 250px;
+    height: 30px;
+    color: var(--branco);
+    background-color: var(--preto-medio);
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.rodapeinfo__links button:hover {
+    background-color: var(--branco);
+    color: var(--preto);
+    border: none;
+}
