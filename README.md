@@ -11,8 +11,7 @@
 :rocket: Ainda vao ser desenvolvidas.
 
 # Acesso ao Projeto
-EM BREVE
-
+https://restaurante-rho.vercel.app/
 
 # Tecnologias utilizadas
 
