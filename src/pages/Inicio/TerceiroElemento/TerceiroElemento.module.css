@@ -1,0 +1,23 @@
+.elemento {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 4em 2em;
+    text-align: center;
+}
+
+.elemento__banner {
+    width: 439px;
+    
+}
+
+.elemento__texto h1 {
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.elemento__texto p {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0.5em 5em 0;
+}

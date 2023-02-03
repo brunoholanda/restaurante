@@ -17,6 +17,7 @@
 
 .cabecalho button:hover {
     background-color: var(--laranja);
+    transform: scale(1.03);
 }
 
 .linha {

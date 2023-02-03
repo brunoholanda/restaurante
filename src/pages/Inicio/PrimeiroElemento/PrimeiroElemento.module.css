@@ -1,0 +1,55 @@
+.elemento {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 4em 3em;
+}
+
+.elemento__texto {
+   padding: 2em 0 0 2em;
+   
+}
+
+.elemento__texto h1 {
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.elemento__texto p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elemento__botoes {
+    margin-top: 1em;
+}
+
+.elemento__botoes button {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0 1em 0 0;
+    width: 200px;
+    height: 70px;
+    border: 2px solid #FF5A00;
+    border-radius: 8px;
+}
+
+.elemento__botoes button:hover {
+    transform: scale(1.04);
+    cursor: pointer;
+}
+
+.elemento__laranja {
+    color: var(--branco);
+    background-color: var(--laranja);
+}
+
+.elemento__branco {
+    color: var(--preto);
+    background-color: var(--branco);
+} 
+
+.elemento img {
+    width: 100%;
+    margin-top: 4em;
+}
