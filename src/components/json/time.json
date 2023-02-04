@@ -1,0 +1,40 @@
+{ "time":
+[
+    {
+        "id": 1,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/arthur.png",
+        "nome": "Arthur",
+        "funcao": "Auxiliar de cozinha",
+        "wp": "https://api.whatsapp.com/send?phone=5583999999999",
+        "fb": "https://www.facebook.com/BrunooHolandaa/",
+        "ig": "https://www.instagram.com/brunoholandaa/"
+    },
+    {
+        "id": 2,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/helena.png",
+        "nome": "Helena",
+        "funcao": "Chef de cozinha",
+        "wp": "https://api.whatsapp.com/send?phone=5583999999999",
+        "fb": "https://www.facebook.com/BrunooHolandaa/",
+        "ig": "https://www.instagram.com/brunoholandaa/"
+    },
+    {
+        "id": 3,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/heloisa.png",
+        "nome": "Heloísa",
+        "funcao": "Senior Chef",
+        "wp": "https://api.whatsapp.com/send?phone=5583999999999",
+        "fb": "https://www.facebook.com/BrunooHolandaa/",
+        "ig": "https://www.instagram.com/brunoholandaa/"
+    },
+    {
+        "id": 4,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/pedro.png",
+        "nome": "Pedro",
+        "funcao": "Sushiman",
+        "wp": "https://api.whatsapp.com/send?phone=5583999999999",
+        "fb": "https://www.facebook.com/BrunooHolandaa/",
+        "ig": "https://www.instagram.com/brunoholandaa/"
+    }
+]
+}

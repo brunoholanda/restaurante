@@ -1,0 +1,19 @@
+.elemento {
+    display: flex;
+}
+
+.elemento h1 {
+    font-size: 40px;
+    font-weight: 500;
+    color: var(--preto);
+    margin-left: 2em;
+}
+
+.banner {
+    width: 100%;
+}
+
+.depoimentos img {
+    width: 30%;
+    margin-left: 0.8em;
+}

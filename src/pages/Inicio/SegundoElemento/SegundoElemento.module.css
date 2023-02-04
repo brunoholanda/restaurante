@@ -24,26 +24,6 @@
     font-weight: 400;
 }
 
-.elemento__botoes button {
-    font-size: 20px;
-    font-weight: 500;
-    margin: 0 1em 0 0;
-    width: 200px;
-    height: 70px;
-    border: 2px solid #FF5A00;
-    border-radius: 8px;
-}
-
-.elemento__botoes button:hover {
-    transform: scale(1.04);
-    cursor: pointer;
-}
-
-.elemento__laranja {
-    color: var(--branco);
-    background-color: var(--laranja);
-}
-
 .elemento__cards {
     display: flex;
     margin-top: 2em; 
@@ -61,6 +41,7 @@
 
 .elemento__card:hover {
     transform: scale(1.03);
+    transition: 0.2s ease;
 }
 
 .elemento a {

@@ -37,11 +37,7 @@
 .elemento__botoes button:hover {
     transform: scale(1.04);
     cursor: pointer;
-}
-
-.elemento__laranja {
-    color: var(--branco);
-    background-color: var(--laranja);
+    transition: 0.3s ease;
 }
 
 .elemento__branco {

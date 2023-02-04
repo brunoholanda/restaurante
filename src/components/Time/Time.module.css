@@ -1,0 +1,38 @@
+.container {
+    margin: 1em auto;
+    display: flex;
+    text-align: center;
+}
+
+.imagem {
+    width: 250px;
+    height: 320px;
+}
+
+.info {
+    background-color: var(--laranja-claro);
+    border-radius: 8px;
+    position: absolute;
+    width: 220px;
+    height: 120px;
+    padding: 0em 0;
+    margin: 9.5em 0 0 0.8em; 
+}
+
+.info h2 {
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0.5em 0;
+}
+
+.info p {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin: 1em 0;
+}
+
+.info__social img {
+    margin: 0 0.4em 0 0.4em;
+}

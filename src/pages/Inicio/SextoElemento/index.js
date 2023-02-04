@@ -1,3 +1,4 @@
+import BotaoLaranja from 'components/BotaoLaranja';
 import styles from './SextoElemento.module.css';
 
 
@@ -9,7 +10,9 @@ function SextoElemento() {
                 <p>Venha nos visitar e experimente a nossa <br></br>culinária incrível. não perca a chance de <br></br>aproveitar as nossas grandes ofertas do dia!</p>
                 <p>Aproveite os melhores pratos do nosso <br></br>cardápio com preços imperdíveis.</p>
                 <div className={styles.elemento__botoes}>
-                    <button className={styles.elemento__laranja}>VER CARDÁPIO</button>
+                    <BotaoLaranja>
+                        VER CARDÁPIO
+                    </BotaoLaranja>
                 </div>
             </div>
         </section>

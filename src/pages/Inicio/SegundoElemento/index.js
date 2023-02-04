@@ -5,6 +5,7 @@ import reservas from '../SegundoElemento/icones/reserva.png';
 import chefs from '../SegundoElemento/icones/chefs.png';
 import servicos from '../SegundoElemento/icones/servicos.png';
 import { Link } from 'react-router-dom';
+import BotaoLaranja from 'components/BotaoLaranja';
 
 function SegundoElemento() {
     return (
@@ -16,7 +17,9 @@ function SegundoElemento() {
                 <h1>Entregamos nas seguintes regiões: Jaboatão dos Guararapes, Recife e Cabo.</h1>
                 <p>Uma variedade de alimentos com menos sal, açucares e totalmente naturais, sem adições de industrializados, é essencial para uma comida saborosa e saudável.</p>
                 <div className={styles.elemento__botoes}>
-                    <button className={styles.elemento__laranja}>VER CARDAPIO</button>
+                    <BotaoLaranja>
+                        VER CARDÁPIO
+                    </BotaoLaranja>
                 </div>
                 <div className={styles.elemento__cards}>
                     <Link to="*">
