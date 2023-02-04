@@ -1,4 +1,5 @@
 import Card from 'components/Card';
+import Categorias from 'components/Categorias';
 import { useEffect, useState } from 'react';
 import styles from './QuintoElemento.module.css';
 
@@ -15,13 +16,17 @@ function QuintoElemento() {
     }, [])
 
     return (
-        <>
-            <section className={styles.container}>
+        <section className={styles.elemento}>
+            <div>
+                <Categorias />
+            </div>
+            <div className={styles.container}>
                 {cardapio.map((cardapio) => {
                     return <Card {...cardapio} key={cardapio.id} />
                 })}
-            </section>
-        </>
+            </div>
+        
+        </section>
     )
 }
 

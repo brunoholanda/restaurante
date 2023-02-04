@@ -1,0 +1,36 @@
+.categorias {
+    background-color: var(--laranja-claro);
+    width: 316px;
+    height: 476px;
+    border-radius: 8px;
+    margin: 0 1em 3em;
+}
+
+.categorias__botao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.categorias button {
+    display: flex;
+    align-items: center;
+    width: 276px;
+    height: 60px;
+    background-color: var(--branco);
+    border-radius: 8px;
+    border: none;
+    margin: 1em 1em 0 1em;
+}
+
+.categorias button p {
+    font-family: var(--fonte);
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 1em;
+}
+
+.categorias button:hover {
+    background-color: var(--laranja);
+}
