@@ -1,23 +1,23 @@
 import React from "react";
 
-const TextoDuasCores = ({ text, word1, word2, cor1, cor2 }) => {
-  const splitText = text.split(" ");
+const TextoDuasCores = ({ texto, palavra1, palavra2, cor1, cor2 }) => {
+  const dividirTexto = texto.split(" ");
 
   return (
     <h1>
-      {splitText.map((currentWord, index) => (
+      {dividirTexto.map((palavraAtual, index) => (
         <span
           key={index}
           style={{
             color:
-              currentWord === word1
+              palavraAtual === palavra1
                 ? cor1
-                : currentWord === word2
+                : palavraAtual === palavra2
                 ? cor2
                 : "inherit",
           }}
         >
-          {currentWord}{" "}
+          {palavraAtual}{" "}
         </span>
       ))}
     </h1>

@@ -8,13 +8,17 @@ function PrimeiroElemento() {
     return (
         <section className={styles.elemento}>
             <div className={styles.elemento__texto}>
-                <TextoDuasCores 
-                  text="Reserve a sua mesa e Faça o seu pedido."
-                  word1="Reserve"
-                  word2="Faça"
-                  cor1="#FF5A00"
-                  cor2="#FF5A00"
+                <TextoDuasCores
+                    texto="Reserve a sua mesa e "
+                    palavra1="Reserve"
+                    cor1="#FF5A00"
                 />
+                <TextoDuasCores
+                    texto="Faça o seu pedido."
+                    palavra1="Faça"
+                    cor1="#FF5A00"
+                />
+
                 <p>Coma a comida dos sonhos e com preço acessivel. Não quer sair de casa? Realizamos entrega, chegamos em minutos.</p>
                 <div className={styles.elemento__botoes}>
                     <BotaoLaranja>
