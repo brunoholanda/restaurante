@@ -1,8 +1,11 @@
 .rodape {
+    background-color: var(--preto-medio);
+    padding: 0.8em 0;
+}
+
+.rodape h1 {
     font-size: 16px;
     font-weight: 300;
     color: var(--branco);
-    background-color: var(--preto-medio);
-    padding: 0.8em 0;
     text-align: center;
 }

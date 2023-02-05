@@ -6,8 +6,6 @@ import SetimoElemento from "./SetimoElemento";
 import SextoElemento from "./SextoElemento";
 import TerceiroElemento from "./TerceiroElemento";
 
-
-
 function Inicio() {
     return (
         <>

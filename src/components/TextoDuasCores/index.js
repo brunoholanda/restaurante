@@ -21,6 +21,7 @@ const TextoDuasCores = ({ texto, palavra1, palavra2, cor1, cor2 }) => {
         </span>
       ))}
     </h1>
+    
   );
 };
 

@@ -1,21 +1,20 @@
 import React from 'react';
-import styles from './Tags.module.scss'
-import fotos from '../Galeria/fotos.json';
+import styles from './Tags.module.css';
+import cardapios from './../json/cardapio.json';
 // import { Container } from './styles';
 
-export default function Tags({tags, filtrarFotos, setItens}) {
+export default function Tags({tags, filtrarCardapios, setItens}) {
   return (
-    <div className={styles.tags}>
-        <p>Filtre por tags:</p>
-        <ul className={styles.tags__lista}>
+    <div className={styles.lista}>
+        <ul className={styles.lista__lista}>
            {tags.map((tag) => {
               return (
-              <li key={tag} onClick={() =>filtrarFotos(tag)}>
+              <li key={tag} onClick={() =>filtrarCardapios(tag)}>
                 {tag}
                 </li>
               ); 
             })}
-           <li onClick={()=> setItens(fotos)}>Todas</li>
+           <li onClick={()=> setItens(cardapios)}>Todas</li>
         </ul>
     </div>
   );

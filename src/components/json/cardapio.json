@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "tag": "Hamburgueres",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/1.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+    {
+        "id": 2,
+        "tag": "Hamburgueres",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/2.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+    {
+        "id": 3,
+        "tag": "Hamburgueres",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/3.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+    {
+        "id": 4,
+        "tag": "Hamburgueres",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/4.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+	{
+        "id": 5,
+        "tag": "Hamburgueres",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/5.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+	{
+        "id": 6,
+        "tag": "Hamburgueres",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/6.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+    {
+        "id": 7,
+        "tag": "Bolos/Doces",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/1.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+    {
+        "id": 8,
+        "tag": "Bolos/Doces",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/2.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+    {
+        "id": 9,
+        "tag": "Bolos/Doces",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/3.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+    {
+        "id": 10,
+        "tag": "Bolos/Doces",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/4.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+	{
+        "id": 11,
+        "tag": "Bolos/Doces",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/5.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    },
+	{
+        "id": 12,
+        "tag": "Bolos/Doces",
+        "titulo": "Hamburguer Splet",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/6.png",
+        "descricao": "2x carne 80g, Pão especial da casa, Salada, Queijo coalho e ovo.",
+        "preco": "R$ 28,70"
+    }
+]

@@ -2,6 +2,9 @@ import styles from './RodapeInfo.module.css';
 import logo from './logo-branca.png'
 import { Link } from 'react-router-dom';
 import CampoTexto from 'components/CampoTexto';
+import mail from './img/mail.png';
+import cell from './img/cell.png';
+import wp from './img/wp.png';
 
 function RodapeInfo() {
     return (

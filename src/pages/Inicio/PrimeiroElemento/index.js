@@ -18,7 +18,6 @@ function PrimeiroElemento() {
                     palavra1="Faça"
                     cor1="#FF5A00"
                 />
-
                 <p>Coma a comida dos sonhos e com preço acessivel. Não quer sair de casa? Realizamos entrega, chegamos em minutos.</p>
                 <div className={styles.elemento__botoes}>
                     <BotaoLaranja>
