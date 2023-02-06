@@ -17,7 +17,7 @@ https://www.figma.com/file/rJ2KwenAAA0Mg8X1LbYYBi/Restaurante---Food?node-id=0%3
 # Tecnologias utilizadas
 
 :spades: REACT;<br>
-:spades: Context-API;<br>
+:spades: API-"Fake";<br>
 :spades: js;<br>
 :spades: Router Dom;<br>
 
