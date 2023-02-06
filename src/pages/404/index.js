@@ -11,10 +11,10 @@ function PaginaDeErro() {
         <section className={styles.erro}>
             <img src={erro404} alt="imagem da pagina de erro" />
             <div>
-            <h1>Ops... Pagina não encontrada... Clique em voltar!</h1>
-            <div className={styles.PaginaDeErro__botao} onClick={() => navegar(-1)}>
-                <BotaoLaranja>VOLTAR</BotaoLaranja>
-            </div>
+                <h1>Ops... Pagina não encontrada... Clique em voltar!</h1>
+                <div className={styles.PaginaDeErro__botao} onClick={() => navegar(-1)}>
+                    <BotaoLaranja>VOLTAR</BotaoLaranja>
+                </div>
             </div>
         </section>
     )
